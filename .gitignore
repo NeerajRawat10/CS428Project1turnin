@@ -57,4 +57,5 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+/[Pp]ackages/com.ptc.vuforia.engine-*
+*com.ptc.vuforia.engine-*
