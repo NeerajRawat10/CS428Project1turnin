@@ -6,6 +6,5 @@ anything you want and place in directory you want, just make sure to remember al
 2021.3.6f1. Not you can go to Unity Hub and click on open project and go to the directory which you saved the file and click on that. Now since this is PC and windows
 supported you can run proejct by hitting hte blue play button. Now that you have the printed cubes and have made them you can put them on the screen and you will see
 the objects on the screen will come to the cube that coresponds to the knicknack it bleongs to. Since all the weather and time are using api_keys that are already given,
-you do not need to adjust them. And since there is a Vuforia key in the project already you do not need to make your own, the version is Vuforia 10.9 if you want to make
-a similar project. 
+you do not need to adjust them. And since there is a Vuforia key in the project already you do not need to make your own, the version is Vuforia 10.9.3 if you want to make a similar project. 
 
